@@ -47,22 +47,31 @@ jUST COPY THIS ONE COMMAND, THEN PASTE TO YOUR VPS
 
     wget https://raw.githubusercontent.com/PixerJason/ssh-multport/main/main.sh && chmod 777 main.sh && ./main.sh
 
+
+# <div align="center">Prompt</div>
+
+![sslh](https://github.com/PixerJason/ssh-multport/assets/109621806/bdfd2539-d97a-4094-b455-23e74b03bf65)
+
+
 # <div align="center">ACCESSING PANEL</div>
+
 To access pannel just type a single world "panel" in your vps
 
      panel
      
-![panel](https://github.com/PixerJason/ghostconnect/assets/109621806/baf70ade-306f-42ef-ab44-c2a91457ab6a)
+![ssh-websocket](https://github.com/PixerJason/ssh-multport/assets/109621806/7b2de2b7-cc49-43a0-9174-b91cb6e3af07)
 
 
-# <div align="center">TRAFFIC USAGE</div>
 
-![traffic](https://github.com/PixerJason/ghostconnect/assets/109621806/633140c9-db5a-4f8f-90e8-fd27bfd9e567)
+# <div align="center">LOGGED IN USERS</div>
+
+![login](https://github.com/PixerJason/ssh-multport/assets/109621806/bf0f6e3c-daa7-4a54-801a-68325165685b)
 
 
 # <div align="center">SERVER INFORMATION</div>
 
 • Timezone                : AFRICA/DAR_ES_SALAAM
+
 
 • CRON                  : [ON]
 
