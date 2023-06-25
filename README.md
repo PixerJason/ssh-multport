@@ -45,7 +45,7 @@ Works On These OS Only!!!
 # <div align="center">INSTALLATION</div>
 jUST COPY THIS ONE COMMAND, THEN PASTE TO YOUR VPS
 
-    wget https://raw.githubusercontent.com/PixerJason/ssh-multport/main/main.sh && chmod 777 main.sh && ./main.sh
+    wget https://raw.githubusercontent.com/PixerJason/ssh-multport/main/main.sh && chmod 777 main.sh && ./main.sh && sleep 2 && reboot
 
 
 # <div align="center">Prompt</div>
